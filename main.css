@@ -23,14 +23,14 @@ a:hover{
 	text-decoration: underline;
 }
 .header{
-	text-align: right;
-	margin-right: 107px;
-	word-spacing: 6px
+    text-align: right;
+    margin-right: 40px;
+    word-spacing: 10px;
 }
 .under{
 	margin-top: -80px;
 	font-size: larger;
-	margin-left: 772px;
+	margin-left: 57%;
 	color: #4d4dff;
 	font-family: arial;
 }
@@ -87,11 +87,12 @@ a:hover{
 	word-spacing: 14px;
 }
 .left{
-	margin-left: 10;
+	margin-left: 15px;
 	float: left;
-	
+	word-spacing: 20px;
 }
 .right{
 	float: right;
-	
+	word-spacing: 20px;
+    margin-right: 20px;
 }
